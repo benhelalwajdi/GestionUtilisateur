@@ -51,8 +51,6 @@
 
     
     
-    
-    //validation de Modifier ou bien de Supprimer
 <script>
 function myFunction() {
   var  r = confirm("Vous etes modifer se donner");
